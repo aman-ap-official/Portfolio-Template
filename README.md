@@ -1,6 +1,6 @@
 # 🎨 Aman Pandey - Portfolio Website
 <p align="center">
-  <strong>This is a personal portfolio website built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **GSAP** animations. It showcases information about me, my skills, and my projects, and includes a contact form.</strong>
+  <strong>This is a personal portfolio website built using HTML, CSS, Tailwind CSS, Bootstrap, and GSAP animations. It showcases information about me, my skills, and my projects, and includes a contact form.</strong>
 </p>
 
 <p align="center">
