@@ -1,43 +1,49 @@
-# ⚙️ Frontend Project Template
+# Aman Pandey - Portfolio Website
 
-> A clean and customizable frontend template to kickstart your next UI project — fast, scalable, and beginner-friendly.
+This is a personal portfolio website built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **GSAP** animations. It showcases information about me, my skills, and my projects, and includes a contact form.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![PRs Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+## 🔗 Live Demo
 
----
-
-## 🎬 Live Demo
-
-Take a look at the project output in action:
-
-👉 [🎥 Click here to view the demo video](https://github.com/user-attachments/assets/36f99f71-0cac-4106-82a8-4b363d0f9cca)
+You can view the live demo (if deployed) by clicking here: [Portfolio Website](#)  
+> _(Replace the `#` with your deployment URL, e.g., GitHub Pages, Netlify, Vercel)_
 
 ---
 
-## 📌 Overview
+## 🛠️ Technologies Used
 
-This is a simple frontend-only template built with HTML, CSS, and JavaScript. It's ideal for small to mid-size projects, static websites, or learning purposes. With a clean layout and zero backend dependencies, it's quick to set up and easy to extend.
+- **HTML5** – Page structure and content
+- **Tailwind CSS** – Utility-first styling
+- **Bootstrap 5** – Responsive components and layout
+- **GSAP (GreenSock)** – Smooth animation effects
+- **Google Fonts** – Elegant and readable typography
+
 
 ---
 
-## ✨ Features
+## 💡 Features
 
-- ✅ No backend – pure frontend template  
-- ✅ Modern and minimal design  
-- ✅ Lightweight and fast  
-- ✅ Easy to deploy (GitHub Pages, Netlify, Vercel)  
-- 🎯 Great starting point for web UI projects  
+- **Responsive Navbar** with mobile toggle menu
+- **Animated Hero Section** with GSAP fade-ins
+- **About Me** section with brief bio and skills
+- **Skills badges** using styled pills
+- **Project Gallery** with image hover effects
+- **Contact Form** styled with Bootstrap
+- **Smooth Mobile Menu** using vanilla JavaScript
+
+---
+
+## 🖼️ Preview
+
+[🎥 Click here to view the demo video](https://github.com/user-attachments/assets/36f99f71-0cac-4106-82a8-4b363d0f9cca)
+
+
 
 ---
 
 ## 🚀 Getting Started
 
+### 1. Clone the Repository
 
-1. *Clone the repository*:
-   ```bash
-  git clone https://github.com/aman-ap-official/Portfolio-Template.git
-<p align="center">
-  Made with ❤ by <a href="https://github.com/aman-ap-official">Aman AP</a>
-</p>
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
