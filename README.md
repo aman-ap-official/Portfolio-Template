@@ -1,6 +1,6 @@
-# ⚙️ Project Template
+# ⚙️ Frontend Project Template
 
-> A clean, customizable template to kickstart your next project — fast, scalable, and developer-friendly.
+> A clean and customizable frontend template to kickstart your next UI project — fast, scalable, and beginner-friendly.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -8,24 +8,40 @@
 
 ---
 
-## 🎬 Demo
+## 🎬 Live Demo
 
-> Check out a short preview of the output in action:
+Take a look at the project output in action:
 
-[![Watch the demo](https://img.shields.io/badge/▶️-Watch%20Video-blue)](https://github.com/user-attachments/assets/36f99f71-0cac-4106-82a8-4b363d0f9cca)
+👉 [Watch Demo Video](https://github.com/user-attachments/assets/36f99f71-0cac-4106-82a8-4b363d0f9cca)
 
 ---
 
-## 📌 About
+## 📌 Overview
 
-This repository provides a simple, modular starting point for your application or tool. Ideal for rapid prototyping, side projects, or learning purposes, this template gives you a reliable structure to build on.
+This is a simple frontend-only template built with HTML, CSS, and JavaScript. It's ideal for small to mid-size projects, static websites, or learning purposes. With a clean folder structure and zero backend dependencies, it's quick to set up and easy to extend.
+
+---
 
 ## ✨ Features
 
-- ✅ Pre-built structure to save setup time
-- ✅ Fully customizable file organization
-- ✅ Clean, readable codebase
-- 🧩 Easy to plug into new or existing projects
+- ✅ No backend – pure frontend template  
+- ✅ Modern, modular folder structure  
+- ✅ Lightweight and fast  
+- ✅ Easy to deploy (GitHub Pages, Netlify, Vercel)  
+- 🎯 Great starting point for web UI projects  
 
-## 📁 Project Structure
+---
+
+## 🗂️ Folder Structure
+
+project-template/
+├── index.html # Main HTML file
+├── style.css # Global styles
+├── script.js # JavaScript logic
+├── assets/ # Images, fonts, videos, etc.
+├── README.md
+└── LICENSE
+
+
+---
 
