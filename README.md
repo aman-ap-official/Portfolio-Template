@@ -43,8 +43,9 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/aman-ap-official/Portfolio-Template.git 
-cd your-repo-name
+1. *Clone the repository*:
+   ```bash
+   git clone https://github.com/aman-ap-official/Portfolio-Template.git 
+<p align="center">
+  Made with ❤ by <a href="https://github.com/aman-ap-official">Aman AP</a>
+</p>
