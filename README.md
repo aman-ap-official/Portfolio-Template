@@ -2,11 +2,6 @@
 
 This is a personal portfolio website built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **GSAP** animations. It showcases information about me, my skills, and my projects, and includes a contact form.
 
-## 🔗 Live Demo
-
-You can view the live demo (if deployed) by clicking here: [Portfolio Website](#)  
-> _(Replace the `#` with your deployment URL, e.g., GitHub Pages, Netlify, Vercel)_
-
 ---
 
 ## 🛠️ Technologies Used
