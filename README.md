@@ -34,10 +34,10 @@ This is a simple frontend-only template built with HTML, CSS, and JavaScript. It
 
 ## 🚀 Getting Started
 
-### 📦 How to Use
 
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/aman-ap-official/Portfolio-Template.git
-
+1. *Clone the repository*:
+   ```bash
+  git clone https://github.com/aman-ap-official/Portfolio-Template.git
+<p align="center">
+  Made with ❤ by <a href="https://github.com/aman-ap-official">Aman AP</a>
+</p>
