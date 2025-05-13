@@ -40,5 +40,5 @@ This is a personal portfolio website built using **HTML**, **CSS**, **Tailwind C
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/aman-ap-official/Portfolio-Template.git 
 cd your-repo-name
